@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "^2.6.1",
+    "jsontoxml": "^1.0.1",
+    "recursive-iterator": "^3.3.0",
+    "xml2js": "^0.4.19"
+  }
+}
